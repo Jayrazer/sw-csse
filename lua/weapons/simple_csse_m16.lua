@@ -3,7 +3,7 @@ AddCSLuaFile()
 SWEP.Base = "simple_base_scoped"
 
 SWEP.PrintName = "M16A4"
-SWEP.Category = "Simple Weapons: CSS Extended"
+SWEP.Category = "Simple Weapons: CSSE"
 
 SWEP.CSMuzzleFlashes = true
 
