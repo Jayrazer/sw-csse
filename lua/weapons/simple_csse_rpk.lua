@@ -26,11 +26,11 @@ SWEP.Firemode = -1
 SWEP.Primary = {
 	Ammo = "AR2",
 
-	ClipSize = 45,
-	DefaultClip = 90,
+	ClipSize = 50,
+	DefaultClip = 100,
 
-	Damage = 21,
-	Delay = 60 / 550,
+	Damage = 18,
+	Delay = 60 / 575,
 
 	Range = 950,
 	Accuracy = 12,
