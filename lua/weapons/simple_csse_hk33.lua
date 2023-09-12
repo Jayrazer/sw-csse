@@ -35,7 +35,7 @@ SWEP.Primary = {
 	Range = 2100,
 	Accuracy = 12,
 
-	RangeModifier = 0.98,
+	RangeModifier = 0.90,
 
 	Recoil = {
 		MinAng = Angle(0.8, -0.6, 0),
@@ -54,7 +54,7 @@ SWEP.NPCData = {
 	Rest = {SWEP.Primary.Delay * 3, SWEP.Primary.Delay * 5}
 }
 
-list.Add("NPCUsableWeapons", {class = "simple_csse_g3k", title = "Simple Weapons: " .. SWEP.PrintName})
+list.Add("NPCUsableWeapons", {class = "simple_csse_hk33", title = "Simple Weapons: " .. SWEP.PrintName})
 
 -- Dynamic Weapon Reverb support
 SWEP.dwr_customAmmoType = "smg1"
