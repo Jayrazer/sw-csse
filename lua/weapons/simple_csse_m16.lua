@@ -32,8 +32,11 @@ SWEP.Primary = {
 	Damage = 22,
 	Delay = 60 / 600,
 
-	Range = 1450,
+	Range = 2000,
 	Accuracy = 12,
+
+	UnscopedRange = 1250,
+	UnscopedAccuracy = 12,
 
 	RangeModifier = 0.98,
 
