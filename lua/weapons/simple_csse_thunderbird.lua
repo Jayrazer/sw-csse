@@ -30,7 +30,7 @@ SWEP.Primary = {
 	DefaultClip = 28,
 
 	Damage = 35,
-	Delay = 60 / 1000,
+	Delay = 60 / 900,
 
 	Range = 800,
 	Accuracy = 12,
@@ -40,7 +40,7 @@ SWEP.Primary = {
 	Recoil = {
 		MinAng = Angle(2.25, -0.7, 0),
 		MaxAng = Angle(3.5, 0.7, 0),
-		Punch = 0.9,
+		Punch = 0.8,
 		Ratio = 0.2
 	},
 
