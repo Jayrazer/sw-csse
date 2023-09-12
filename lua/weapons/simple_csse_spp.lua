@@ -7,7 +7,7 @@ SWEP.Category = "Simple Weapons: CSSE"
 
 SWEP.CSMuzzleFlashes = true
 
-SWEP.Slot = 2
+SWEP.Slot = 1
 
 SWEP.Spawnable = true
 
