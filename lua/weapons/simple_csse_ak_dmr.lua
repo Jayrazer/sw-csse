@@ -2,7 +2,7 @@ AddCSLuaFile()
 
 SWEP.Base = "simple_base_scoped"
 
-SWEP.PrintName = "AK-DMR"
+SWEP.PrintName = "Saiga Hunter"
 SWEP.Category = "Simple Weapons: CSSE"
 
 SWEP.CSMuzzleFlashes = true
