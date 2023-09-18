@@ -32,7 +32,7 @@ SWEP.Primary = {
 	Damage = 65,
 	Delay = 60 / 400,
 
-	Range = 2850,
+	Range = 2900,
 	Accuracy = 12,
 	
 	UnscopedRange = 400,
@@ -51,7 +51,7 @@ SWEP.Primary = {
 	TracerName = "Tracer"
 }
 
-SWEP.ScopeZoom = {3, 5}
+SWEP.ScopeZoom = {3, 8}
 SWEP.ScopeSound = "Default.Zoom"
 
 SWEP.NPCData = {
