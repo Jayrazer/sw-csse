@@ -30,7 +30,6 @@ SWEP.Primary = {
 	DefaultClip = 60,
 
 	Damage = 22,
-	Delay = 60 / 600,
 
 	Range = 2000,
 	Accuracy = 12,
@@ -63,3 +62,7 @@ SWEP.NPCData = {
 }
 
 list.Add("NPCUsableWeapons", {class = "simple_csse_m16", title = "Simple Weapons: " .. SWEP.PrintName})
+
+function SWEP:GetDelay()
+	return self:GetScopeIndex() > 0 and 60 / 650 or 60 / 700
+end
